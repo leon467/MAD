@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Past Order</string>
+    <string name="Past">Past order</string>
+    <string name="orderNum">Order #1</string>
+    <string name="item1">Chicken lasagna</string>
+    <string name="item2">Lava cake</string>
+    <string name="qty1">2</string>
+    <string name="qty2">1</string>
+    <string name="price1">Rs. 400</string>
+    <string name="price2">Rs. 250</string>
+    <string name="delivery">Delivery charges : Rs. 100</string>
+    <string name="total">Total : Rs. 1150</string>
+</resources>
